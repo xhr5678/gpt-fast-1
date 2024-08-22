@@ -217,6 +217,3 @@ Thanks to:
 * GGML for driving forward fast, on device inference of LLMs
 * Karpathy for spearheading simple, interpretable and fast LLM implementations
 * MLC-LLM for pushing 4-bit quantization performance on heterogeneous hardware
-# gpt-fast-1
-# gpt-fast-1
-# gpt-fast-1
